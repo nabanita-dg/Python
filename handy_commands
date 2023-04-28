@@ -1,0 +1,4 @@
+conda activate pynd
+conda deactivate
+pip list --format=freeze > requirements_pynd.txt
+!pip list --format=freeze > /Users/nabanita/Documents/Machine_Learning/requirements_pynd.txt
