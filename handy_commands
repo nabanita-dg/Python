@@ -2,3 +2,11 @@ conda activate pynd
 conda deactivate
 pip list --format=freeze > requirements_pynd.txt
 !pip list --format=freeze > /Users/nabanita/Documents/Machine_Learning/requirements_pynd.txt
+
+Git Commands
+git clone https:/restof the address
+git branch development
+git checkout development
+git add .
+git commit -m "comment"
+git push origin development
